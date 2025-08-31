@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Ashutosh Kumar 👋</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashutoshkumar&label=Profile%20Views&color=0e75b6&style=flat" alt="ashutoshkumar" />
 </p>
@@ -10,7 +9,6 @@
 - 🎯 Java Full Stack Developer
 - 🔧 Skilled in: `Java`, `Spring Boot`, `Hibernate`, `JSP/Servlets`, `MySQL`, `MongoDB`, `React`, `JavaScript`, `HTML/CSS`, `Python`, `Django`
 - 💬 Ask me about: Java, Python, Django, REST APIs, DB integration, full-stack project architecture
-- 📫 How to reach me: [Email](mailto:ashutoshbiotech2020@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ashutoshbiotech/)
 
 **This is my GitHub profile readme file.**  
 *Proficient in Python for scripting, automation, backend development, and Django for building robust web applications.*
@@ -52,6 +50,6 @@
   <a href="mailto:ashutoshbiotech2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ashutoshbiotech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Ashutosh-biotech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://ashutosh-kr-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=about-dot-me&logoColor=white"/></a>
 </p>
 
----
