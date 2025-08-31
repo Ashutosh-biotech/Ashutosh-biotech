@@ -7,12 +7,13 @@
 ---
 
 ## 💼 About Me
-
 - 🎯 Java Full Stack Developer
-- 🔧 Skilled in: `Java`, `Spring Boot`, `Hibernate`, `JSP/Servlets`, `MySQL`, `MongoDB`, `React`, `JavaScript`, `HTML/CSS`
-- 🧠 Currently expanding into: `DevOps`, `Microservices`, and `Cloud (AWS)`
-- 💬 Ask me about: Java backend, REST APIs, DB integration, full-stack project architecture
-- 📫 How to reach me: [Email](mailto:youremail@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🔧 Skilled in: `Java`, `Spring Boot`, `Hibernate`, `JSP/Servlets`, `MySQL`, `MongoDB`, `React`, `JavaScript`, `HTML/CSS`, `Python`, `Django`
+- 💬 Ask me about: Java, Python, Django, REST APIs, DB integration, full-stack project architecture
+- 📫 How to reach me: [Email](mailto:ashutoshbiotech2020@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ashutoshbiotech/)
+
+**This is my GitHub profile readme file.**  
+*Proficient in Python for scripting, automation, backend development, and Django for building robust web applications.*
 
 ---
 
@@ -22,6 +23,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -31,6 +33,7 @@
 **Backend:**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) – Proficient in scalable web application development
 
 **Database:**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
@@ -45,7 +48,6 @@
 ---
 
 ## 📫 Connect With Me
-
 <p align="center">
   <a href="mailto:ashutoshbiotech2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ashutoshbiotech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
